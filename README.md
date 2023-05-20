@@ -1,5 +1,4 @@
-# Community Classroom is OP
+#Community classroom OP
 
-- Arkoprovo Datta says that this community is amazing.
-- More power to Arko. Love the work which you are doing for the community.
-- Finally learned Github
+-Kunal Kushwaha saya that this community is amazing.
+
